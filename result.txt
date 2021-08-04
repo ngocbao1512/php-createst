@@ -1,0 +1,4 @@
+min|max|result
+0|4|hoc yeu qua
+5|7|hoc tam on
+8|10|good chop em
